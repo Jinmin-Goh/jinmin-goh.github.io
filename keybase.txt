@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jemini
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jemini.dev
+  * I am jemini (https://keybase.io/jemini) on keybase.
+  * I have a public key ASCZvePjSBnBwqwpC5yB9wrqNyR_PucxZUEwqKJ9Pe1KvAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012099bde3e34819c1c2ac290b9c81f70aea37247f3ee731654130a8a27d3ded4abc0a",
+      "host": "keybase.io",
+      "kid": "012099bde3e34819c1c2ac290b9c81f70aea37247f3ee731654130a8a27d3ded4abc0a",
+      "uid": "950a50ae699136a71b469c215f790219",
+      "username": "jemini"
+    },
+    "merkle_root": {
+      "ctime": 1645978252,
+      "hash": "85bf52d735d4c221ce8f1c85dca8fab7afc6d46d8f66c8e6a19ee6c0ed5a35cea9bce52371a132f9e384bd1e2b0cdf699f0b9fd1adc8706b5ec7bde766327f77",
+      "hash_meta": "25abc6a368a6ec08915428f089d69f616c809638bfd243ba56ee95737c3831c1",
+      "seqno": 21967004
+    },
+    "service": {
+      "entropy": "HZ2qz/3pgVrhNDUFvj/OIcFI",
+      "hostname": "jemini.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1645978298,
+  "expire_in": 504576000,
+  "prev": "ec9c1c954f91ecf46ba21097423f100e9c39aadcfe8c78c5c38599c6de8f7d61",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmb3j40gZwcKsKQucgfcK6jckfz7nMWVBMKiifT3tSrwKp3BheWxvYWTESpcCCsQg7JwclU+R7PRrohCXQj8QDpw5qtz+jHjFw4WZxt6PfWHEIMt2S9G1X2gZHkxgUgTrJmetXZCAZnfn0QBAbC9DqhBfAgHCo3NpZ8RAOEyYUS9HcS2FjAKG0qJ4X2jAc9qg9zBMVJCxzIMp3ksSVsidfV5SOjatuTBFrOVmELM+/ensqotolq0TgGLkDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBOGVHAQkGi+8Ft6eW07CqyEkNDAAWNOyqcDihq0mt+Ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jemini
+
+==================================================================
