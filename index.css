@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+
+* { font-family: 'Noto Sans KR', sans-serif; }
+body { color: #222; background-color: #f8f8f8; }
+a { color: #e68; text-decoration: none; }
+a:hover { color: #f8a; text-decoration: underline; }
