@@ -5,3 +5,8 @@ body { color: #222; background-color: #f8f8f8; padding: 16px; }
 a { color: #e68; text-decoration: none; }
 a:hover { color: #f8a; text-decoration: underline; }
 span.underline { text-decoration: underline; }
+
+h2 { display: inline-block; border-bottom: 4px double #bbb; margin: 32px 0 0 0; padding: 0 2px; }
+h3, h4 { display: block; margin: 16px 0 8px 0; padding: 0 2px; }
+ul { margin: 0; }
+div.skill, div.honor-award { display: block; margin: 16px 0 8px 0; }
