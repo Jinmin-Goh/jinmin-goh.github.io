@@ -4,4 +4,4 @@
 body { color: #222; background-color: #f8f8f8; padding: 16px; }
 a { color: #e68; text-decoration: none; }
 a:hover { color: #f8a; text-decoration: underline; }
-n_underline { text-decoration: underline; }
+span.underline { text-decoration: underline; }
